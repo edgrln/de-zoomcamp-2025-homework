@@ -1,0 +1,4 @@
+google-cloud-storage==3.0.0
+pandas==2.2.3
+pandas-gbq==0.27.0
+google-oauth2-tool==0.0.3

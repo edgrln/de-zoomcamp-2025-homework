@@ -1,0 +1,5 @@
+version: '3'
+services:
+  injest_data_zones:
+    build:
+      context: ./injest_data
